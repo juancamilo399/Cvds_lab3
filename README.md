@@ -1,5 +1,8 @@
 # Cvds_lab3
 
+**Juan Camilo Angel Hernandez**
+**Juan Camilo Rojas Ortiz**
+
 AeroDescuentos
 Se está desarrollando para una aerolínea su módulo de liquidación de tiquetes aéreos. Para el mismo, se tiene una función que aplica descuentos a la tarifa base del vuelo dependiendo del tiempo de antelación de la reserve y la edad del pasajero. Los descuentos SON ACUMULABLES.
 Normativa 005, sobre los descuentos:
