@@ -73,6 +73,7 @@ public long calculoTarifa(long tarifaBase, int diasAntelacion, int edad)
 |4 |Parametros correctos y descuento del 8% | (1000,17,66) (1000,17,68)|
 |5 |Parametros correctos y descuento del 20% | (1000,21,17)  (1000,22,16) |
 |6 |Parametros correctos y descuento del 23%  | (1000,21,66)  (1000,22,67) |
+|6 |Ningun descuento |(1000,20,17)|
 
 | Numero  | Parametros   | casos de prueba incorrectos | 
 | ---  | ---  | --- | 
