@@ -69,9 +69,9 @@ public long calculoTarifa(long tarifaBase, int diasAntelacion, int edad)
 | ---  | ---  | --- | 
 |1 |Parametros incorrectos| (5,5,5) | 
 |2 |Parametros correctos y descuento del 15% | (1000,21,30) (1000,22,30) |
-|3 |Pametros correctos y descuento del 5% | (1000,17, 17) (1000,17,5)|
+|3 |Pametros correctos y descuento del 5% | (1000,17, 17) (1000,17,16)|
 |4 |Parametros correctos y descuento del 8% | (1000,17,66) (1000,17,68)|
-|5 |Parametros correctos y descuento del 20% | (1000,21,17)  (1000,22,5) |
+|5 |Parametros correctos y descuento del 20% | (1000,21,17)  (1000,22,16) |
 |6 |Parametros correctos y descuento del 23%  | (1000,21,66)  (1000,22,67) |
 
 | Numero  | Parametros   | casos de prueba incorrectos | 
